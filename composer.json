@@ -1,5 +1,5 @@
 {
-  "name": "convertkit/convertkitapi",
+  "name": "janiskelemen/convertkitapi",
   "description": "ConvertKit API SDK",
   "keywords": ["convertkit", "api", "forms"],
   "require": {
